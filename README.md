@@ -1,0 +1,2 @@
+# goble
+A global store.
