@@ -5,7 +5,7 @@ A global store.
 
 Setting a global variable.
 
-```
+```javascript
 var goble = require('goble');
 
 goble.set('foo', 'bar');
@@ -13,14 +13,14 @@ goble.set('foo', 'bar');
 
 Getting a global variable
 
-```
+```javascript
 // print 'bar' to console
 console.log(goble.get('foo'));
 ```
 
 Clearing all global variables
 
-```
+```javascript
 gobal.clear();
 
 // print null
