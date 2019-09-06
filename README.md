@@ -21,7 +21,7 @@ console.log(goble.get('foo'));
 Clearing all global variables
 
 ```javascript
-gobal.clear();
+goble.clear();
 
 // print null
 console.log(goble.get('foo'));
