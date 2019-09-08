@@ -1,6 +1,12 @@
 # goble
 A global store.
 
+## Installation
+
+```javascript
+npm install goble
+```
+
 ## Usage
 
 Setting a global variable.
